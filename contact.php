@@ -1,10 +1,9 @@
 <?php
-require "head.php";
-require "nav.php";
-require "header";
+require "./repeat/head.php";
+require "./repeat/nav.php";
 ?>
 
 <?php
-require "footer.php";
-require "script.php";
+require "./repeat/footer.php";
+require "./repeat/script.php";
 ?>
